@@ -1,4 +1,4 @@
-# Questions Application
+# Questions Application (CRUD)
 
 ## Simple application for questions and answers with likes system
 
